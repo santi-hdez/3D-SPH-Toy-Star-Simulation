@@ -321,6 +321,6 @@ In particular:
 
 **Santiago Hernández Díaz**
 
-PhD candidate in Astrophysics
+PhD candidate in Physics
 University of Tübingen
 
