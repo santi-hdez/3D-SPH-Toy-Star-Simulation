@@ -279,13 +279,10 @@ If `data_save=True`, the particle coordinates and velocities are additionally st
 
 ## Example Simulation
 
-[![3D SPH toy star simulation](media/toy_star.gif)](media/toy_star.mp4)
+![Toy star](media/toy_star.gif)
 
-A higher-quality MP4 version can also be included:
+[Watch the full MP4 simulation](media/toy_star.mp4)
 
-```markdown
-[▶ Watch the full simulation](media/toy_star.mp4)
-```
 
 ---
 
@@ -296,7 +293,8 @@ A higher-quality MP4 version can also be included:
 ├── Toy_Star.py
 ├── media/
 │   ├── toy_star.gif
-│   └── toy_star.mp4
+│   ├── toy_star.mp4
+│   └── toy_star_3D.mp4
 ├── README.md
 └── LICENSE
 ```
