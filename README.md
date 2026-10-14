@@ -4,8 +4,6 @@ A three-dimensional particle-based hydrodynamics simulation of a polytropic toy 
 
 The model represents the stellar fluid using discrete particles and computes local fluid properties through an SPH smoothing kernel. Starting from a randomly distributed spherical configuration that is not initially in hydrostatic equilibrium, the system expands and undergoes damped oscillations before approaching an equilibrium configuration.
 
-The project provides a compact implementation of several fundamental concepts in computational fluid dynamics and particle-based numerical modelling, including SPH density estimation, pressure-gradient forces, kernel interpolation, adaptive timesteps, and second-order time integration.
-
 ---
 
 ## Physical Model
