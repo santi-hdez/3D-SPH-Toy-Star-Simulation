@@ -301,7 +301,7 @@ If `data_save=True`, the particle coordinates and velocities are additionally st
 
 ## Model Limitations
 
-This code is intended as a **toy model and educational implementation of SPH**, rather than a complete stellar hydrodynamics code.
+This code is intended as a **toy model of a star**, rather than a complete stellar hydrodynamics code.
 
 In particular:
 
@@ -310,7 +310,7 @@ In particular:
 * the neighbour search uses a direct particle-pair search,
 * the model includes an explicit damping force to drive relaxation,
 * additional physics required for realistic stellar simulations is not included.
-
+ 
 ---
 
 ## Author
